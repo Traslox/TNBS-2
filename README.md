@@ -1,3 +1,9 @@
+# First day patch 01.28.2025
+What is changed?
+Twitter and Bluesky integration is added like gmail.
+Some bugs fix it.
+Character limit counter added.
+
 # TNBS-2
 Traslox's Network Browser System 2
 
